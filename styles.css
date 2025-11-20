@@ -1,12 +1,12 @@
-.pera1{
+#pera1{
 	border:1px solid green;
 	background-color:yellow;
 }
-.pera2{
+#pera2{
 	border:1px solid black;
 	background-color:red;
 }
-.pera3{
+#pera3{
 	border:1px solid yellow;
 	background-color:green;
 }
